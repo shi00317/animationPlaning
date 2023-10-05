@@ -1,0 +1,5 @@
+File: task1.txtDuration: 0.029625 ms
+Num Collisions: 2
+0
+1
+

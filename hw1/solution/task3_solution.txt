@@ -1,0 +1,10 @@
+File: task3.txtDuration: 0.0655 ms
+Num Collisions: 7
+2
+3
+5
+6
+7
+8
+9
+

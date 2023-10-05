@@ -1,0 +1,9 @@
+File: task4.txtDuration: 0.014375 ms
+Num Collisions: 6
+5
+6
+8
+11
+15
+18
+
